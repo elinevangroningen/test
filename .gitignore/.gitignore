@@ -1,0 +1,6 @@
+# Personal Rpoject files
+*.Rproj
+
+# HTML files
+*.html
+*.nb.html
