@@ -5,7 +5,11 @@ output: html_notebook
 
 ```{r}
 for(i in 1:10) {
+<<<<<<< HEAD
   print(i - 1)
+=======
+  print(i + 1)
+>>>>>>> 8ccf06c (merge conflict)
 }
 ```
 
