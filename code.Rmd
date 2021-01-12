@@ -5,7 +5,7 @@ output: html_notebook
 
 ```{r}
 for(i in 1:10) {
-  print(i)
+  print(i - 1)
 }
 ```
 
